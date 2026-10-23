@@ -55,7 +55,7 @@ Never commit API keys, access tokens, phone numbers, or other private credential
 - Handle API errors and failed workflow steps.
 - Test integrations before enabling live calls.
 - Respect contact consent, applicable calling laws, privacy requirements, and platform terms.
-- Use human review where business rules or uncertain call outcomes require it.
+- Use human review where business rules or uncertain call outcomes requires it.
 
 ## Project Status
 
